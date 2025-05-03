@@ -12,6 +12,7 @@ buildscript {
 plugins {
     id("com.android.application")
     id("kotlin-android")
+    id("org.jetbrains.kotlin.android") version "1.8.22"
     id("dev.flutter.flutter-gradle-plugin")
     id("com.google.gms.google-services") 
     id("org.jetbrains.kotlin.android")
