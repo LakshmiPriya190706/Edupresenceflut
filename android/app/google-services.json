@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "766521297013",
+      "project_id": "eduapp-e3e7d",
+      "storage_bucket": "eduapp-e3e7d.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:766521297013:android:4acc2c1e94df85b4a6d03c",
+          "android_client_info": {
+            "package_name": "com.example.app"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBwhPYmhg6q0YIx0WLO4NKY0d5rQwXig4M"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
